@@ -1,16 +1,36 @@
-# React + Vite
+# Paste App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Paste App is a React-based web application built as part of my web development learning journey. It allows users to create, edit, view, copy, and manage text pastes with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Paste App live link: https://sanchitaroradev.github.io/paste-app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Create new text pastes
+- Edit existing pastes
+- View pastes in detail
+- Copy paste content to clipboard
+- Delete pastes
+- Clean and responsive user interface
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- React Router DOM
+- Redux Toolkit
+- Tailwind CSS
+- Vite
+
+## Learning Outcomes
+
+- Understanding component-based architecture in React
+- State management using Redux Toolkit
+- Client-side routing with React Router
+- Handling side effects with React hooks
+- Implementing real-world CRUD functionality
+
+## Author
+
+GitHub Profile: https://github.com/sanchitaroradev
